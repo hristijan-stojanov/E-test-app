@@ -14,7 +14,5 @@
 
 ## Видео презентација
 
-<video width="320" height="240" controls>
-  <source src="Images-videos/E-test Video.mp4" type="video/mp4">
-  Вашиот прелистувач не поддржува HTML5 видео.
-</video>
+[video](https://github.com/hristijan-stojanov/E-test-app/assets/82612180/b92a3d9f-12c3-41f1-8c59-4aa1fa853a6c)
+
